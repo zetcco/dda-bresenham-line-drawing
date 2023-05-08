@@ -1,0 +1,16 @@
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\bin\Debug\netcoreapp3.1\LineDrawing.exe
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\bin\Debug\netcoreapp3.1\LineDrawing.deps.json
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\bin\Debug\netcoreapp3.1\LineDrawing.runtimeconfig.json
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\bin\Debug\netcoreapp3.1\LineDrawing.runtimeconfig.dev.json
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\bin\Debug\netcoreapp3.1\LineDrawing.dll
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\bin\Debug\netcoreapp3.1\LineDrawing.pdb
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.csproj.AssemblyReference.cache
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.Form1.resources
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.csproj.GenerateResource.cache
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.AssemblyInfoInputs.cache
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.AssemblyInfo.cs
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.csproj.CoreCompileInputs.cache
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.dll
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.pdb
+E:\Work\Study\L 2\CSC2143 (Computer graphics and Image Processing)\Compute Graphics\Practical Redo\LineDrawing\obj\Debug\netcoreapp3.1\LineDrawing.genruntimeconfig.cache
